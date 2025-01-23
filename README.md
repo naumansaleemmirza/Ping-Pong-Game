@@ -12,4 +12,11 @@ Excited to share my latest project—a Ping Pong game developed using C++! This 
 
 Through this project, I gained a deeper understanding of logic building and real-time game mechanics. It was a great learning experience.
 
-![Screenshot 2025-01-23 091622](https://github.com/user-attachments/assets/d51c9f83-8111-47d9-a488-5e449fbde8e5)
+![Screenshot 2025-01-23 091258](https://github.com/user-attachments/assets/ab733aeb-3e9b-4762-b1fe-fda393ec511c)
+
+![Screenshot 2025-01-23 091622](https://github.com/user-attachments/assets/53980087-cfee-4026-bf6a-f563ab0f1302)
+
+![Screenshot 2025-01-23 091518](https://github.com/user-attachments/assets/b8f138f2-5a9f-4ecb-960e-60175ce59c20)
+
+
+
